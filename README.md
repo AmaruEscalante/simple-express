@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/AmaruEscalante/simple-express.svg?branch=main)](https://travis-ci.com/AmaruEscalante/simple-express)
+
 # Overview
 This is a very simple, bare-bones NodeJS and ExpressJS project created for you to use with Docker.
 
